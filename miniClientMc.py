@@ -1,7 +1,7 @@
 import socket
 import struct
 
-HOST = "85.214.29.214"
+HOST = "127.0.0.1"
 PORT = 25565
 
 def toString16(text):
